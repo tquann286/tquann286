@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tquann286
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to a front-end internship website developer 
 - 📫 How to reach me: 
 + Via FB: https://www.facebook.com/trung.quann.2806
 + Via LinkedIn: https://www.linkedin.com/in/quantrung286
