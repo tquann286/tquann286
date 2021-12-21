@@ -49,7 +49,7 @@ Check out my profiles:
 
 ### Top used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tquann286&hide=scss,less&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tquann286&layout=compact&exclude_repo=30DaysJS)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
