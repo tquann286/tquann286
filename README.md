@@ -51,9 +51,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tquann286&layout=compact&exclude_repo=30DaysJS)](https://github.com/anuraghazra/github-readme-stats)
 
+### My github streak
 
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tquann286&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
