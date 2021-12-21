@@ -43,7 +43,7 @@ Check out my profiles:
 
 ### My Github Stats
 
-[![Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tquann286&hide=stars,prs,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Trung Quân's GitHub stats](https://github-readme-stats.vercel.app/api?username=tquann286&hide=stars,prs,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
