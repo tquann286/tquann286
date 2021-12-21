@@ -41,6 +41,9 @@ Check out my profiles:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asabeneh&layout)](https://github.com/asabeneh/github-readme-stats)
 
+---
+
+[![Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tquann286)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
