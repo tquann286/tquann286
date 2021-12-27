@@ -17,7 +17,7 @@
 ---
 
 - 🔭 I’m currently working on ... Building Website Projects
-- 🌱 I’m currently learning ... React
+- 🌱 I’m currently learning ... ReactJS
 - 👯 I’m looking to collaborate on ... Different Projects
 - 💬 Ask me about ... Anything :smiley:
 - 📫 How to reach me: ... Just by email or message on social media 
