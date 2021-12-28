@@ -13,7 +13,7 @@
 
 [View Portfolio]() -->
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 - 🔭 I’m currently working on ... Building Website Projects
 - 🌱 I’m currently learning ... ReactJS
@@ -22,7 +22,7 @@
 - 📫 How to reach me: ... Just by email or message on social media 
 <!-- - ⚡ Fun fact: ... Humans are just one of the estimated 8.7 million species on Earth! -->
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## Technologies which I use:
 
@@ -38,13 +38,13 @@
 
 <img src="/assets/gitlogo.png" width="60" title="Git"> &nbsp; <img src="/assets/vscodelogo.svg" width="60" title="VS Code">
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 [![My github stats](https://readme-typing-svg.herokuapp.com?color=%236999EB&height=40&lines=My+Github+Stats)](https://git.io/typing-svg)
 
 [![Trung Quân's GitHub stats](https://github-readme-stats.vercel.app/api?username=tquann286&hide=stars,prs,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ### Top used Languages
 
