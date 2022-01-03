@@ -48,7 +48,7 @@
 
 ### Top used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tquann286&layout=compact&exclude_repo=fontawesome,shopee)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tquann286&layout=compact&exclude_repo=fontawesome,shopee,Love_travel)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My github streak
 
