@@ -28,15 +28,15 @@
 
 ### Frontend Technologies
 
-<img src="/assets/htmllogo.svg" width="60" title="HTML 5"> &nbsp; <img src="/assets/csslogo.svg" width="60" title="CSS 3"> &nbsp; <img src="/assets/jslogo.svg" width="60" title="JavaScript"> &nbsp; <img src="/assets/es6logo.svg" width="60" title="ES6">&nbsp;<img src="/assets/react.svg" width="60" title="React"> &nbsp;<img src="/assets/bootstraplogo.svg" width="60" title="Bootstrap 5">
+<img src="/assets/htmllogo.svg" width="60" title="HTML 5"> &nbsp; <img src="/assets/csslogo.svg" width="60" title="CSS 3"> &nbsp; <img src="/assets/jslogo.svg" width="60" title="JavaScript"> &nbsp; <img src="/assets/es6logo.svg" width="60" title="ES6">&nbsp;<img src="/assets/react.svg" width="60" title="React"> &nbsp;<img src="/assets/bootstraplogo.svg" width="60" title="Bootstrap 5">&nbsp;<img src="/assets/eslint.svg" width="60" title="Eslint"> &nbsp;<img src="/assets/babel.svg" width="60" title="Babel">
 
 ### Backend Technologies
 
-<img src="/assets/nodejs.svg" width="60" title="NodeJS">&nbsp;<img src="/assets/npm.svg" width="60" title="NPM"> &nbsp;<img src="/assets/express.svg" width="60" title="Express JS"> &nbsp;<img src="/assets/mongodb.svg" width="60" title="Mongo DB"> &nbsp;
+<img src="/assets/nodejs.svg" width="60" title="NodeJS">&nbsp;<img src="/assets/npm.svg" width="60" title="NPM">&nbsp;<img src="/assets/express.svg" width="60" title="Express JS"> &nbsp;<img src="/assets/mongodb.svg" width="60" title="Mongo DB"> &nbsp;
 
 ### Tools
 
-<img src="/assets/gitlogo.png" width="60" title="Git"> &nbsp; <img src="/assets/vscodelogo.svg" width="60" title="VS Code">
+<img src="/assets/gitlogo.png" width="60" title="Git"> &nbsp; <img src="/assets/vscodelogo.svg" width="60" title="VS Code"> &nbsp; <img src="/assets/sublime-text.svg" width="60" title="Sublime Text">
 
 ![](https://i.imgur.com/waxVImv.png)
 
