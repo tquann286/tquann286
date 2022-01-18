@@ -28,7 +28,7 @@
 
 ### Frontend Technologies
 
-<img src="/assets/htmllogo.svg" width="60" title="HTML 5"> &nbsp; <img src="/assets/csslogo.svg" width="60" title="CSS 3"> &nbsp; <img src="/assets/jslogo.svg" width="60" title="JavaScript"> &nbsp; <img src="/assets/es6logo.svg" width="60" title="ES6">&nbsp;<img src="/assets/react.svg" width="60" title="React"> &nbsp;<img src="/assets/bootstraplogo.svg" width="60" title="Bootstrap 5">&nbsp;<img src="/assets/eslint.svg" width="60" title="Eslint"> &nbsp;<img src="/assets/babel.svg" width="60" title="Babel">
+<img src="/assets/htmllogo.svg" width="60" title="HTML 5"> &nbsp; <img src="/assets/csslogo.svg" width="60" title="CSS 3"> &nbsp; <img src="/assets/jslogo.svg" width="60" title="JavaScript"> &nbsp; <img src="/assets/es6logo.svg" width="60" title="ES6">&nbsp;<img src="/assets/react.svg" width="60" title="React"> &nbsp;<img src="/assets/react-router.svg" width="60" title="React Router"> &nbsp;<img src="/assets/bootstraplogo.svg" width="60" title="Bootstrap 5">&nbsp;<img src="/assets/eslint.svg" width="60" title="Eslint"> &nbsp;<img src="/assets/babel.svg" width="60" title="Babel">
 
 ### Backend Technologies
 
