@@ -16,7 +16,7 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 - 🔭 I’m currently working on ... Building Website Projects
-- 🌱 I’m currently learning ... ReactJS
+- 🌱 I’m currently learning ... ReactJS, NextJS, SASS, Typescript
 - 👯 I’m looking to collaborate on ... Different Projects
 - 💬 Ask me about ... Anything :smiley:
 - 📫 How to reach me: ... Just by email or message on social media 
