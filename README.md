@@ -32,7 +32,7 @@
 
 ### Backend Technologies
 
-<img src="/assets/nodejs.svg" width="60" title="NodeJS">&nbsp;<img src="/assets/npm.svg" width="60" title="NPM">&nbsp;<img src="/assets/express.svg" width="60" title="Express JS"> &nbsp;<img src="/assets/mongodb.svg" width="60" title="Mongo DB"> &nbsp;
+<img src="/assets/nodejs.svg" width="60" title="NodeJS">&nbsp;<img src="/assets/npm.svg" width="60" title="NPM">&nbsp;<img src="/assets/express.svg" width="60" title="Express JS"> &nbsp;<img src="/assets/mongodb.svg" width="60" title="Mongo DB"> &nbsp;<img src="/assets/firebase.svg" width="30" title="Firebase"> &nbsp;
 
 ### Tools
 
