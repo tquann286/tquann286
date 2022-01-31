@@ -20,7 +20,7 @@
 - 👯 I’m looking to collaborate on ... Different Projects
 - 💬 Ask me about ... Anything :smiley:
 - 📫 How to reach me: ... Just by email or message on social media 
-<!-- - ⚡ Fun fact: ... Humans are just one of the estimated 8.7 million species on Earth! -->
+- ⚡ Fun fact: I like playing soccer, climbing and coding
 
 ![](https://i.imgur.com/waxVImv.png)
 
