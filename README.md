@@ -28,8 +28,7 @@
 
 ### Frontend Technologies
 
-<img src="/assets/htmllogo.svg" width="60" title="HTML 5"> &nbsp; <img src="/assets/csslogo.svg" width="60" title="CSS 3"> &nbsp; <img src="/assets/jslogo.svg" width="60" title="JavaScript"> &nbsp; <img src="/assets/es6logo.svg" width="60" title="ES6">&nbsp;<img src="/assets/react.svg" width="60" title="React"> &nbsp;<img src="/assets/react-router.svg" width="60" title="React Router"> &nbsp;<img src="/assets/bootstraplogo.svg" width="60" title="Bootstrap 5">&nbsp;<img src="/assets/eslint.svg" width="60" title="Eslint"> &nbsp;<img src="/assets/babel.svg" width="60" title="Babel">
-
+<img src="/assets/htmllogo.svg" width="60" title="HTML 5"> &nbsp; <img src="/assets/csslogo.svg" width="60" title="CSS 3"> &nbsp; <img src="/assets/jslogo.svg" width="60" title="JavaScript"> &nbsp; <img src="/assets/es6logo.svg" width="60" title="ES6">&nbsp;<img src="/assets/react.svg" width="60" title="React"> &nbsp;<img src="/assets/material-ui.svg" width="60" title="Material UI"> &nbsp;<img src="/assets/ant-design.svg" width="60" title="Ant Design">&nbsp;
 ### Backend Technologies
 
 <img src="/assets/nodejs.svg" width="60" title="NodeJS">&nbsp;<img src="/assets/npm.svg" width="60" title="NPM">&nbsp;<img src="/assets/express.svg" width="60" title="Express JS"> &nbsp;<img src="/assets/mongodb.svg" width="60" title="Mongo DB"> &nbsp;<img src="/assets/firebase.svg" width="30" title="Firebase"> &nbsp;
