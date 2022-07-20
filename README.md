@@ -41,7 +41,7 @@
 
 [![My github stats](https://readme-typing-svg.herokuapp.com?color=%236999EB&height=40&lines=My+Github+Stats)](https://git.io/typing-svg)
 
-[![Trung Quân's GitHub stats](https://github-readme-stats.vercel.app/api?username=tquann286&hide=stars,prs,issues,&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Trung Quân's GitHub stats](https://github-readme-stats.vercel.app/api?username=tquann286&hide=stars,&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://i.imgur.com/waxVImv.png)
 
