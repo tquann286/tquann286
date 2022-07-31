@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on ... Different Projects
 - 💬 Ask me about ... Anything :smiley:
 - 📫 How to reach me: ... Just by email or message on social media 
-- ⚡ Fun fact: I like playing soccer, climbing and coding
+- ⚡ Fun fact: I like playing soccer, climbing and coding.
 
 ![](https://i.imgur.com/waxVImv.png)
 
