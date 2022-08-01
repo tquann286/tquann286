@@ -32,7 +32,7 @@
 
 <img src="/assets/mongodb.svg" width="60" title="Mongo DB"> &nbsp;<img src="/assets/firebase.svg" width="30" title="Firebase"> &nbsp;
 
-### Tools
+### Tools:
 
 <img src="/assets/gitlogo.png" width="60" title="Git"> &nbsp; <img src="/assets/github.svg" width="60" title="Github"> &nbsp; <img src="/assets/vscodelogo.svg" width="60" title="VS Code"> &nbsp; <img src="/assets/sublime-text.svg" width="60" title="Sublime Text">
 
