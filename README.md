@@ -15,7 +15,7 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 - 🔭 I’m currently working on ... Building ReactJS Website Projects
-- 🌱 I’m currently learning ... ReactJS, SASS, Firebase
+- 🌱 I’m currently learning ... ReactJS, Typescript, Firebase
 - 👯 I’m looking to collaborate on ... Different Projects
 - 💬 Ask me about ... Anything :smiley:
 - 📫 How to reach me: ... Just by email or message on social media 
