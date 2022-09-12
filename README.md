@@ -4,7 +4,7 @@
 
 ### Check out my others social:
 
-[<img src="/assets/linkedin.png" width="30" title="LinkedIn">](https://www.linkedin.com/in/quantrung286/) &nbsp; [<img src="/assets/facebook.png" width="30" title="Facebook">](https://www.facebook.com/trung.quann.2806) &nbsp; [<img src="/assets/instagram.png" width="30" title="Instagram">](https://www.instagram.com/trungquan2806_/)
+[<img src="/assets/facebook.png" width="30" title="Facebook">](https://www.facebook.com/trung.quann.2806) &nbsp; [<img src="/assets/instagram.png" width="30" title="Instagram">](https://www.instagram.com/trungquan2806_/)
 
 ![](https://komarev.com/ghpvc/?username=tquann286&color=green)
 
