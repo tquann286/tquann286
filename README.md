@@ -27,8 +27,8 @@
 
 ### Frontend Technologies
 
-<img src="/assets/htmllogo.svg" width="50" title="HTML 5"> &nbsp; <img src="/assets/csslogo.svg" width="50" title="CSS 3"> &nbsp; <img src="/assets/jslogo.svg" width="60" title="JavaScript"> &nbsp; <img src="/assets/es6logo.svg" width="60" title="ES6">&nbsp;<img src="/assets/react.svg" width="60" title="React"> &nbsp;<img src="/assets/material-ui.svg" width="60" title="Material UI"> &nbsp;<img src="/assets/ant-design.svg" width="60" title="Ant Design">&nbsp;<img src="/assets/sass-logo.svg" width="60" title="SASS">&nbsp;
-### Backend Technologies
+<img src="/assets/htmllogo.svg" width="50" title="HTML 5"> &nbsp; <img src="/assets/csslogo.svg" width="50" title="CSS 3"> &nbsp; <img src="/assets/jslogo.svg" width="60" title="JavaScript"> &nbsp; <img src="/assets/es6logo.svg" width="60" title="ES6">&nbsp;<img src="/assets/react.svg" width="60" title="React"> &nbsp;<img src="/assets/material-ui.svg" width="60" title="Material UI"> &nbsp;<img src="/assets/ant-design.svg" width="60" title="Ant Design">&nbsp;<img src="/assets/sass-logo.svg" width="60" title="SASS">&nbsp;<img src="/assets/next-js.svg" width="60" title="Next JS">&nbsp;
+
 <img src="/assets/firebase.svg" width="30" title="Firebase"> &nbsp;
 
 ### Tools:
