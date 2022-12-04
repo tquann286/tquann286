@@ -2,7 +2,7 @@
 
 ## I'm Quan and I love to build web applications! 
 
-### Check out my others social:
+### Check out my others social media:
 
 [<img src="/assets/facebook.png" width="30" title="Facebook">](https://www.facebook.com/trung.quann.2806) &nbsp; [<img src="/assets/instagram.png" width="30" title="Instagram">](https://www.instagram.com/trungquan2806_/)
 
