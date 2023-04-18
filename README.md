@@ -33,7 +33,7 @@
 
 ### Tools:
 
-<img src="/assets/gitlogo.png" width="60" title="Git"> &nbsp; <img src="/assets/github.svg" width="60" title="Github"> &nbsp; <img src="/assets/vscodelogo.svg" width="60" title="VS Code"> &nbsp; <img src="/assets/sublime-text.svg" width="60" title="Sublime Text">; <img src="/assets/vitejs.svg" width="60" title="ViteJS">
+<img src="/assets/gitlogo.png" width="60" title="Git"> &nbsp; <img src="/assets/github.svg" width="60" title="Github"> &nbsp; <img src="/assets/vscodelogo.svg" width="60" title="VS Code"> &nbsp; <img src="/assets/sublime-text.svg" width="60" title="Sublime Text"> <img src="/assets/vitejs.svg" width="60" title="ViteJS">
 
 ![](https://i.imgur.com/waxVImv.png) 
 
