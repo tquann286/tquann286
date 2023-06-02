@@ -55,6 +55,60 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tquann286&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br />
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/tquann286/nhaccuatui-clone" title="Nhaccuatui Clone"
+    ><img
+      align="left"
+      height="115"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=tquann286&repo=nhaccuatui-clone&theme=react&border_color=61dafb&border_radius=10" /></a
+  ><a align="right" href="https://github.com/tquann286/whatsapp-lite" title="Whatsapp lite"
+    ><img
+      align="right"
+      height="115"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=tquann286&repo=whatsapp-lite&theme=react&border_color=61dafb&border_radius=10"
+  /></a>
+</div>
+<br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/tquann286/real-estate-app" title="Real estate app"
+    ><img
+      align="left"
+      height="115"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=tquann286&repo=real-estate-app&theme=react&border_color=61dafb&border_radius=10"
+  /></a>
+  <a align="right" href="https://github.com/tquann286/crypto-app" title="Crypto app"
+    ><img
+      align="right"
+      height="115"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=tquann286&repo=crypto-app&theme=react&border_color=61dafb&border_radius=10"
+  /></a>
+</div>
+<br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/tquann286/covid-tracker" title="Covid tracker"
+    ><img
+      align="left"
+      height="115"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=tquann286&repo=covid-tracker&theme=react&border_color=61dafb&border_radius=10"
+  /></a>
+  <a align="right" href="https://github.com/tquann286/metaverse" title="Metaverse"
+    ><img
+      align="right"
+      height="115"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=tquann286&repo=metaverse&theme=react&border_color=61dafb&border_radius=10"
+  /></a>
+</div>
+<br /><br /><br /><br /><br /><br />
+
+<h4 align="center">
+  <a href="https://github.com/tquann286?tab=repositories" title="Show Repositories"
+    > Show More 🔍</a
+  >
+</h4>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
