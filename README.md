@@ -1,6 +1,6 @@
 # Hi there,  👋
 
-## I'm Quan and I love to build web applications! 
+## I'm Quan and I love to build web applications! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
@@ -54,6 +54,10 @@
 ### My github streak
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tquann286&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 
 
