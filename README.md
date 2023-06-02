@@ -2,6 +2,10 @@
 
 ## I'm Quan and I love to build web applications! 
 
+<p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
+
 ### Check out my others social media:
 
 [<img src="/assets/facebook.png" width="30" title="Facebook">](https://www.facebook.com/trung.quann.2806) &nbsp; [<img src="/assets/instagram.png" width="30" title="Instagram">](https://www.instagram.com/trungquan2806_/)
@@ -15,7 +19,7 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 - 🔭 I’m currently working on ... Building NextJS Website Projects
-- 🌱 I’m currently learning ... Typescript
+- 🌱 I’m currently learning ... Typescript, NodeJS
 - 👯 I’m looking to collaborate on ... Different Projects
 - 💬 Ask me about ... Anything :smiley:
 - 📫 How to reach me: ... Just by email or message on social media 
