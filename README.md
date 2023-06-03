@@ -59,12 +59,12 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br />
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/tquann286/nhaccuatui-clone" title="Nhaccuatui Clone" target="_blank"
+  <a align="left" href="https://github.com/tquann286/nhaccuatui-clone" title="Nhaccuatui Clone" target="_blank"  rel="noreferrer"
     ><img
       align="left"
       height="115"
       src="https://github-readme-stats.vercel.app/api/pin/?username=tquann286&repo=nhaccuatui-clone&theme=react&border_color=61dafb&border_radius=10" /></a
-  ><a align="right" href="https://github.com/tquann286/whatsapp-lite" title="Whatsapp lite" target="_blank"
+  ><a align="right" href="https://github.com/tquann286/whatsapp-lite" title="Whatsapp lite" target="_blank"  rel="noreferrer"
     ><img
       align="right"
       height="115"
@@ -73,13 +73,13 @@
 </div>
 <br /><br /><br /><br /><br /><br />
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/tquann286/real-estate-app" title="Real estate app" target="_blank"
+  <a align="left" href="https://github.com/tquann286/real-estate-app" title="Real estate app" target="_blank"  rel="noreferrer"
     ><img
       align="left"
       height="115"
       src="https://github-readme-stats.vercel.app/api/pin/?username=tquann286&repo=real-estate-app&theme=react&border_color=61dafb&border_radius=10"
   /></a>
-  <a align="right" href="https://github.com/tquann286/crypto-app" title="Crypto app" target="_blank"
+  <a align="right" href="https://github.com/tquann286/crypto-app" title="Crypto app" target="_blank"  rel="noreferrer"
     ><img
       align="right"
       height="115"
@@ -88,13 +88,13 @@
 </div>
 <br /><br /><br /><br /><br /><br />
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/tquann286/covid-tracker" title="Covid tracker" target="_blank"
+  <a align="left" href="https://github.com/tquann286/covid-tracker" title="Covid tracker" target="_blank"  rel="noreferrer"
     ><img
       align="left"
       height="115"
       src="https://github-readme-stats.vercel.app/api/pin/?username=tquann286&repo=covid-tracker&theme=react&border_color=61dafb&border_radius=10"
   /></a>
-  <a align="right" href="https://github.com/tquann286/metaverse" title="Metaverse" target="_blank"
+  <a align="right" href="https://github.com/tquann286/metaverse" title="Metaverse" target="_blank"  rel="noreferrer"
     ><img
       align="right"
       height="115"
