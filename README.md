@@ -1,6 +1,6 @@
 # Hi there,  👋
 
-## I'm Quan and I love to build web applications! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+## I'm Quan and I love to build web applications! <img src="/assets/sad.gif" width="60">
 
 <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
@@ -56,7 +56,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tquann286&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositories <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <br />
 <div width="100%" align="center">
   <a align="left" href="https://github.com/tquann286/nhaccuatui-clone" title="Nhaccuatui Clone" target="_blank"  rel="noreferrer"
