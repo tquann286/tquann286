@@ -23,8 +23,6 @@
 - 📫 How to reach me: ... Just by email or message on social media 
 - ⚡ Fun fact: I like playing soccer, climbing, and coding.
 
-![](https://i.imgur.com/waxVImv.png)
-
 ## Technologies which I use:
 
 ### Frontend Technologies
@@ -36,8 +34,6 @@
 ### Tools:
 
 <img src="/assets/gitlogo.png" width="60" title="Git"> &nbsp; <img src="/assets/github.svg" width="60" title="Github"> &nbsp; <img src="/assets/vscodelogo.svg" width="60" title="VS Code"> &nbsp; <img src="/assets/sublime-text.svg" width="60" title="Sublime Text"> <img src="/assets/vitejs.svg" width="60" title="ViteJS">
-
-![](https://i.imgur.com/waxVImv.png) 
 
 [![My github stats](https://readme-typing-svg.herokuapp.com?color=%236999EB&height=40&lines=My+Github+Stats)](https://git.io/typing-svg)
 
