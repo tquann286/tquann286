@@ -6,7 +6,7 @@
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
 
-### Check out my others social media:
+### Check out my other social media:
 
 [<img src="/assets/facebook.png" width="30" title="Facebook">](https://www.facebook.com/trung.quann.2806) &nbsp; [<img src="/assets/instagram.png" width="30" title="Instagram">](https://www.instagram.com/trungquan2806_/)
 
@@ -23,10 +23,8 @@
 - 📫 How to reach me: ... Just by email or message on social media 
 - ⚡ Fun fact: I like playing soccer, climbing, and coding.
 
-## Technologies which I use:
 
-### Frontend Technologies
-
+### `<Skills />`
 <img src="/assets/htmllogo.svg" width="50" title="HTML 5"> &nbsp; <img src="/assets/csslogo.svg" width="50" title="CSS 3"> &nbsp; <img src="/assets/jslogo.svg" width="60" title="JavaScript"> &nbsp; <img src="/assets/es6logo.svg" width="60" title="ES6">&nbsp;<img src="/assets/react.svg" width="60" title="React"> &nbsp;<img src="/assets/material-ui.svg" width="60" title="Material UI"> &nbsp;<img src="/assets/tailwind-css.svg" width="60" title="TailwindCSS">&nbsp;<img src="/assets/sass-logo.svg" width="60" title="SASS">&nbsp;<img src="/assets/next-js.svg" width="60" title="Next JS">&nbsp;<img src="/assets/typescript.svg" width="60" title="Typescript JS">&nbsp;<img src="/assets/redux.svg" width="60" title="Redux">&nbsp;
 
 <img src="/assets/firebase.svg" width="30" title="Firebase"> &nbsp;
