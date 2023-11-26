@@ -1,6 +1,6 @@
 # Hi there,  👋
 
-## I'm Quan and I love to build web applications! <img src="/assets/sad.gif" width="60">
+## I'm Quan and I love to build web applications! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
@@ -43,7 +43,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tquann286&layout=compact&exclude_repo=fontawesome,shopee,Love_travel)](https://github.com/anuraghazra/github-readme-stats)
 
-### My github streak <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### My github streak 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tquann286&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -99,6 +99,8 @@
   <a href="https://github.com/tquann286?tab=repositories" title="Show Repositories"
     > Show More 🔍</a
   >
+  <br /><br /><br />
+  <img src="/assets/sad.gif" width="180">
 </h4>
 
 <p align="center">
