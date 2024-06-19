@@ -18,7 +18,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-- 🔭 I’m currently working on ... Building NextJS Website Projects
+- 🔭 I’m currently active on ... [@quantrung](https://github.com/quantrung)
 - 🌱 I’m currently learning ... Typescript, NodeJS
 - 📫 How to reach me: ... Just by email or message on social media 
 - ⚡ Fun fact: I like playing soccer, climbing, and coding.
